@@ -277,7 +277,7 @@ SELECT EMP_NAME, NVL2(BONUS, 'O', 'X') "보너스 수령"
 FROM EMPLOYEE;
 
 
-
+-- gittest 위해 변경사항 만들기
 
 
 
